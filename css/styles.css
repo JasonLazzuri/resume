@@ -25,3 +25,20 @@
 p.test {
   clear:left;
 }
+
+.education1 p {
+  color: red;
+}
+
+.side-bar img{
+  padding: 40px;
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+.cat {
+  width: 300px;
+  height: auto;
+}
