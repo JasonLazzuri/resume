@@ -1,20 +1,27 @@
-.education{
-  font-style: italic;
+.education1{
   font-family: sans-serif;
+  width: 20%;
+  font-size: 50px;
+  float: left;
+  border: 5px solid black;
+  padding: 20px;
+  background-color: orange;
+  margin-bottom: 20%;
+  margin-top: 5%;
+  margin-right: 10%;
+  margin-left: 5%;
+}
+.class1{
+  font-size: 12px;
+  font-style: italic;
 }
 
-.work-experience{
+.side-bar{
   font-family: cursive;
   color: blue;
+  float: left;
+  width: 20%;
 }
-.hello{
-  font-size: 50px;
-}
-
-.goodbye{
-  float: right;
-}
-
-.skills{
-  font-variant: small-caps;
+p.test {
+  clear:left;
 }
